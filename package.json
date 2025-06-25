@@ -1,0 +1,15 @@
+{
+  "name": "spendingtracker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Open public/index.html in a browser'",
+    "test": "echo 'No tests specified' && exit 1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "highcharts": "^11.4.0",
+    "highcharts-react-official": "^3.2.0"
+  }
+}
